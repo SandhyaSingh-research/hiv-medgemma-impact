@@ -29,7 +29,9 @@ recommendations.
 
 ## Repository structure
 ├── inference_demo.ipynb # End-to-end demo for one illustrative case
+
 ├── requirements.txt # Minimal Python dependencies
+
 └── README.md
 
 ---
